@@ -1,0 +1,23 @@
+# 🎨 AI-Based Image Transformation Tool for Cartoon Effect
+
+This project is an AI-powered tool that transforms real images into **cartoon-style artworks** using deep learning models (e.g., PyTorch or Stable Diffusion).
+
+## 🚀 Features
+- Converts normal photos into cartoon-style images.
+- Multiple style variations (light, comic, oil, watercolor).
+- User-friendly interface for uploading and downloading images.
+
+## 🧠 Technologies Used
+- Python
+- PyTorch
+- OpenCV
+- NumPy
+- Matplotlib
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/yourusername/AI-Image-Transformation-Tool.git
+cd AI-Image-Transformation-Tool
+pip install -r requirements.txt
+
